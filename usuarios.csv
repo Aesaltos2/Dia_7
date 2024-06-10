@@ -1,0 +1,22 @@
+id,nombres,apellidos,direccion,correo_electronico,dni,edad,fecha_creacion,telefono
+41,Juan,Pérez,Calle 123,juan@example.com,12345678A,30,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+42,María,Gómez,Avenida 456,maria@example.com,87654321B,25,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+43,Carlos,López,Plaza Principal,carlos@example.com,45678901C,35,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+44,Ana,Martínez,Paseo 789,ana@example.com,09876543D,28,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+45,Pedro,Sánchez,Callejón 456,pedro@example.com,34567890E,32,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+46,Laura,Rodríguez,Camino 123,laura@example.com,56789012F,27,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+47,David,Fernández,Ronda 789,david@example.com,21098765G,29,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+48,Sofía,López,Paseo 456,sofia@example.com,54321987H,31,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+49,Elena,González,Calle 789,elena@example.com,10987654I,33,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+50,Manuel,Díaz,Avenida 123,manuel@example.com,32109876J,26,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+51,Carmen,Pérez,Plaza 456,carmen@example.com,54321098K,34,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+52,Javier,Gómez,Callejón 789,javier@example.com,76543210L,29,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+53,Ana,Sánchez,Avenida 123,ana.s@example.com,98765432M,30,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+54,Daniel,Martín,Camino 456,daniel@example.com,87654321N,28,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+55,María,López,Ronda 789,maria.l@example.com,76543210O,35,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+56,Lucía,García,Plaza 123,lucia@example.com,65432109P,31,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+57,José,Martínez,Paseo 456,jose@example.com,54321098Q,33,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+58,Ana,Rodríguez,Avenida 789,ana.r@example.com,43210987R,27,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+59,Carlos,González,Callejón 123,carlos.g@example.com,32109876S,32,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),123456789
+60,Marta,Sánchez,Camino 456,marta@example.com,21098765T,29,Fri Jun 07 2024 00:00:00 GMT-0500 (hora de Ecuador),987654321
+61,Martina,Salazr,Camino 420,marta@exa.com,21098842A,29,Thu Nov 30 1899 00:00:00 GMT-0514 (hora de Ecuador),987654631
